@@ -1,0 +1,11 @@
+{
+  "uuid": "15b24b00-54eb-4a2b-8685-3df1bd48b164",
+  "shortName": "Smart Car",
+  "longName": "Smart Car,
+  "companyName": "nGoline",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  }
+} 
